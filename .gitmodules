@@ -1,3 +1,6 @@
 [submodule "package/sdk"]
 	path = package/sdk
 	url = git@github.com:frndlytm/mcp-sdk.git
+[submodule "app/file-system"]
+	path = app/file-system
+	url = git@github.com:frndlytm/mcp-file-system.git
